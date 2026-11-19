@@ -1,0 +1,7 @@
+Error: Directory not found!
+Error: Directory not found!
+Backup created: /Users/aleena/Desktop/UnixPBL/backups/backup_2026-11-20_00-40-13.tar.gz
+Fri Nov 20 00:40:13 IST 2026: Backup of /Users/aleena/Desktop/TestFolder successful.
+Successfully restored to /Users/aleena/Desktop/RestoredFolder
+Fri Nov 20 00:46:25 IST 2026: Restored backup_2026-11-20_00-40-13.tar.gz to /Users/aleena/Desktop/RestoredFolder
+Scheduled backup every 1 minutes for /Users/aleena/Desktop/TestFolder
