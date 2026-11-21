@@ -44,7 +44,3 @@ A menu-driven backup and restore utility developed using Bash shell scripting. I
 ## Platform
 Developed and tested on macOS. Some features may require additional configuration on macOS.
 
-## Project
-UNIX Programming Lab  
-Jaypee Institute of Information Technology  
-Batch F12
